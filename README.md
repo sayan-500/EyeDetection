@@ -1,4 +1,4 @@
-A OpenCV Eye Detection Python you will learn about detecting a human eye with the feature mappers knows as haar cascades.
+A OpenCV Eye Detection Python project about detecting a human eye with the feature mappers knows as haar cascades.
 
 Here in the project, we will use the python language along with the OpenCV library for the algorithm execution and image processing respectively.
 
